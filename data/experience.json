@@ -1,0 +1,52 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Supply Chain Analyst",
+      "company": "Mondelez International",
+      "period": "Aug 2024 - Present",
+      "location": "",
+      "description": "Analyze demand, supply, and inventory across 2,500+ SKUs using SAP APO, SAP SCM, SQL, and Excel, supporting planning decisions across product categories representing $25M+ in annual product flow.\nSupport S&OP and supply-planning cycles by integrating forecast, inventory, capacity, and material-requirement data into Power BI, improving planning visibility and exception identification by 22%.\nApply demand forecasting, ABC analysis, safety stock planning, and inventory optimization to rebalance inventory positions, contributing to a 14% reduction in excess inventory across monitored categories.\nEvaluate supply constraints, forecast variance, and material availability to reduce stockout exposure, contributing to a 9% improvement in service-level performance.\nAnalyze supplier performance and procurement activity across 40+ suppliers, using KPI trends and root-cause analysis to support a 13% improvement in on-time supplier performance.\nDevelop recurring KPI reporting across inventory, forecast accuracy, fulfillment, and supplier metrics, reducing manual reporting effort by 28% and improving planning-review turnaround.\nPerform data validation and inventory reconciliation across planning datasets, reducing recurring data discrepancies by 18% and improving reliability of supply-chain reporting used in planning reviews.",
+      "responsibilities": [
+        "Analyze demand, supply, and inventory across 2,500+ SKUs using SAP APO, SAP SCM, SQL, and Excel, supporting planning decisions across product categories representing $25M+ in annual product flow",
+        "Support S&OP and supply-planning cycles by integrating forecast, inventory, capacity, and material-requirement data into Power BI, improving planning visibility and exception identification by 22%",
+        "Apply demand forecasting, ABC analysis, safety stock planning, and inventory optimization to rebalance inventory positions, contributing to a 14% reduction in excess inventory across monitored categories",
+        "Evaluate supply constraints, forecast variance, and material availability to reduce stockout exposure, contributing to a 9% improvement in service-level performance",
+        "Analyze supplier performance and procurement activity across 40+ suppliers, using KPI trends and root-cause analysis to support a 13% improvement in on-time supplier performance",
+        "Develop recurring KPI reporting across inventory, forecast accuracy, fulfillment, and supplier metrics, reducing manual reporting effort by 28% and improving planning-review turnaround",
+        "Perform data validation and inventory reconciliation across planning datasets, reducing recurring data discrepancies by 18% and improving reliability of supply-chain reporting used in planning reviews"
+      ]
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "company": "Walgreens",
+      "period": "Mar 2023 - Jul 2024",
+      "location": "",
+      "description": "Analyzed demand, replenishment, and inventory trends across 180+ retail and distribution locations using SQL and Microsoft Excel to support inventory and replenishment decisions.\nEvaluated demand patterns, forecasting results, and replenishment exceptions to identify shortage risks and inventory imbalances across assigned product categories.\nBuilt Power BI and Tableau reporting for inventory, order fulfillment, supplier activity, and supply-chain KPIs, reducing recurring manual reporting effort by 18 hours per month.\nConducted purchase-order analysis, inventory reconciliation, and supplier performance reviews across 8,000+ purchase orders to identify unresolved supply discrepancies and follow-up requirements.\nApplied safety stock, EOQ, and inventory optimization analysis to support replenishment decisions and maintain appropriate inventory levels.\nCoordinated with procurement, vendors, logistics, and operational stakeholders to resolve fulfillment exceptions and support product-flow activities associated with approximately $35M in annual sales.",
+      "responsibilities": [
+        "Analyzed demand, replenishment, and inventory trends across 180+ retail and distribution locations using SQL and Microsoft Excel to support inventory and replenishment decisions",
+        "Evaluated demand patterns, forecasting results, and replenishment exceptions to identify shortage risks and inventory imbalances across assigned product categories",
+        "Built Power BI and Tableau reporting for inventory, order fulfillment, supplier activity, and supply-chain KPIs, reducing recurring manual reporting effort by 18 hours per month",
+        "Conducted purchase-order analysis, inventory reconciliation, and supplier performance reviews across 8,000+ purchase orders to identify unresolved supply discrepancies and follow-up requirements",
+        "Applied safety stock, EOQ, and inventory optimization analysis to support replenishment decisions and maintain appropriate inventory levels",
+        "Coordinated with procurement, vendors, logistics, and operational stakeholders to resolve fulfillment exceptions and support product-flow activities associated with approximately $35M in annual sales"
+      ]
+    },
+    {
+      "title": "Supply Chain Coordinator",
+      "company": "Hexaware Technologies",
+      "period": "Jun 2019 - Dec 2020",
+      "location": "",
+      "description": "Coordinated purchase-order tracking, vendor follow-up, and logistics activities across 100+ supply-chain transactions per month, maintaining visibility into open requirements and delivery commitments.\nUsed Microsoft Excel, VLOOKUP, XLOOKUP, Pivot Tables, and Power Query to reconcile supply-chain records and support recurring data validation activities.\nSupported RFQ/RFP management and supplier evaluation across 15+ sourcing requests by organizing pricing, lead-time, and operational information for procurement review.\nReviewed purchase orders, delivery schedules, and vendor updates to track open requirements and coordinate follow-up with suppliers and internal stakeholders.\nPerformed data validation and inventory reconciliation to identify transactional discrepancies and support accurate supply-chain records.\nPrepared recurring supply-chain status updates and KPI reports, providing visibility into outstanding coordination items and delivery commitments.",
+      "responsibilities": [
+        "Coordinated purchase-order tracking, vendor follow-up, and logistics activities across 100+ supply-chain transactions per month, maintaining visibility into open requirements and delivery commitments",
+        "Used Microsoft Excel, VLOOKUP, XLOOKUP, Pivot Tables, and Power Query to reconcile supply-chain records and support recurring data validation activities",
+        "Supported RFQ/RFP management and supplier evaluation across 15+ sourcing requests by organizing pricing, lead-time, and operational information for procurement review",
+        "Reviewed purchase orders, delivery schedules, and vendor updates to track open requirements and coordinate follow-up with suppliers and internal stakeholders",
+        "Performed data validation and inventory reconciliation to identify transactional discrepancies and support accurate supply-chain records",
+        "Prepared recurring supply-chain status updates and KPI reports, providing visibility into outstanding coordination items and delivery commitments"
+      ]
+    }
+  ]
+}

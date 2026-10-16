@@ -1,0 +1,41 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Supply Chain Analyst with 4+ years of experience supporting demand planning, supply planning, inventory management, procurement, S&OP, MRP, forecasting, and supply chain analytics across consumer goods, retail pharmacy, and technology-services environments.",
+    "Experienced with SAP MM, SAP APO, SAP SCM, Oracle NetSuite, SQL, Microsoft Excel, Power BI, Tableau, and Python for analyzing supply chain data, improving planning visibility, and supporting operational decisions.",
+    "Strong background in inventory optimization, safety stock planning, supplier performance, purchase order analysis, procurement analytics, KPI reporting, root cause analysis, and continuous improvement."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "12+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-briefcase",
+      "value": "2+",
+      "label": "Years Experience",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "45+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "0+",
+      "label": "Certifications",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

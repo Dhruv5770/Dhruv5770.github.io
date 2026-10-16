@@ -1,0 +1,72 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "SQL",
+        "VBA",
+        "Python"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#4ECDC4",
+      "skills": [
+        "SAP MM",
+        "SAP APO",
+        "SAP SCM",
+        "Oracle NetSuite",
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Power Query",
+        "VLOOKUP",
+        "XLOOKUP",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#FFE66D",
+      "skills": [
+        "Demand Planning",
+        "Supply Planning",
+        "Inventory Management",
+        "Procurement",
+        "S&OP",
+        "Material Requirements Planning (MRP)",
+        "Supplier Performance Management",
+        "Vendor Management",
+        "Logistics Coordination",
+        "Order Fulfillment",
+        "Demand Forecasting",
+        "Inventory Optimization",
+        "ABC Analysis",
+        "EOQ",
+        "Safety Stock Planning",
+        "Capacity Planning",
+        "Inventory Reconciliation",
+        "RFQ/RFP Management",
+        "Purchase Order Analysis",
+        "Supplier Evaluation",
+        "Contract Support",
+        "Procurement Analytics",
+        "Cost Analysis",
+        "Root Cause Analysis",
+        "KPI Reporting",
+        "Lean Six Sigma",
+        "Continuous Improvement",
+        "Cross-Functional Collaboration",
+        "Data Validation",
+        "Pandas",
+        "NumPy"
+      ]
+    }
+  ]
+}

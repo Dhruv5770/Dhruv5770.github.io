@@ -1,0 +1,26 @@
+{
+  "_instructions": "Site-wide configuration and meta tags.",
+  "title": "Dhruv Desai | Supply Chain Analyst",
+  "description": "Dhruv Desai - Supply Chain Analyst | Portfolio",
+  "keywords": "Supply Chain Analyst, Portfolio, Dhruv Desai",
+  "author": "Dhruv Desai",
+  "siteName": "Dhruv Desai",
+  "siteTitle": "Dhruv Desai | Supply Chain Analyst",
+  "meta": {
+    "title": "Dhruv Desai | Supply Chain Analyst",
+    "description": "Dhruv Desai - Supply Chain Analyst | Portfolio",
+    "author": "Dhruv Desai",
+    "keywords": "Supply Chain Analyst, Portfolio, Dhruv Desai"
+  },
+  "branding": {
+    "name": "Dhruv Desai",
+    "tagline": "Supply Chain Analyst",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}

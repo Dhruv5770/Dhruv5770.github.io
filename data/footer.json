@@ -1,0 +1,30 @@
+{
+  "_instructions": "Footer section.",
+  "copyright": {
+    "text": "© 2026 Dhruv Desai. All rights reserved.",
+    "year": "2026",
+    "name": "Dhruv Desai"
+  },
+  "tagline": "Crafted with passion and dedication",
+  "links": [
+    {
+      "text": "Privacy Policy",
+      "href": "#privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "#terms"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:dhruv.d2715@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "backToTop": {
+    "text": "Back to Top",
+    "icon": "fas fa-chevron-up"
+  }
+}
