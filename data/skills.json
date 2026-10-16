@@ -3,37 +3,9 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming Languages",
-      "icon": "fas fa-code",
-      "color": "#FF6B6B",
-      "skills": [
-        "SQL",
-        "VBA",
-        "Python"
-      ]
-    },
-    {
-      "category": "Tools & Platforms",
-      "icon": "fas fa-wrench",
-      "color": "#4ECDC4",
-      "skills": [
-        "SAP MM",
-        "SAP APO",
-        "SAP SCM",
-        "Oracle NetSuite",
-        "Microsoft Excel",
-        "Pivot Tables",
-        "Power Query",
-        "VLOOKUP",
-        "XLOOKUP",
-        "Power BI",
-        "Tableau"
-      ]
-    },
-    {
-      "category": "Technical Skills",
-      "icon": "fas fa-laptop-code",
-      "color": "#FFE66D",
+      "category": "Supply Chain & Planning",
+      "icon": "fas fa-diagram-project",
+      "color": "#B19CD9",
       "skills": [
         "Demand Planning",
         "Supply Planning",
@@ -44,28 +16,77 @@
         "Supplier Performance Management",
         "Vendor Management",
         "Logistics Coordination",
-        "Order Fulfillment",
+        "Order Fulfillment"
+      ]
+    },
+    {
+      "category": "ERP & Supply Chain Systems",
+      "icon": "fas fa-server",
+      "color": "#FF6B6B",
+      "skills": [
+        "SAP MM",
+        "SAP APO",
+        "SAP SCM",
+        "Oracle NetSuite"
+      ]
+    },
+    {
+      "category": "Data Analysis & Reporting",
+      "icon": "fas fa-chart-column",
+      "color": "#4ECDC4",
+      "skills": [
+        "SQL",
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Power Query",
+        "VBA",
+        "VLOOKUP",
+        "XLOOKUP",
+        "Power BI",
+        "Tableau",
+        "Python",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "category": "Inventory & Forecasting",
+      "icon": "fas fa-boxes-stacked",
+      "color": "#FFE66D",
+      "skills": [
         "Demand Forecasting",
         "Inventory Optimization",
         "ABC Analysis",
         "EOQ",
         "Safety Stock Planning",
         "Capacity Planning",
-        "Inventory Reconciliation",
+        "Inventory Reconciliation"
+      ]
+    },
+    {
+      "category": "Procurement & Operations",
+      "icon": "fas fa-file-contract",
+      "color": "#A8DADC",
+      "skills": [
         "RFQ/RFP Management",
         "Purchase Order Analysis",
         "Supplier Evaluation",
         "Contract Support",
         "Procurement Analytics",
-        "Cost Analysis",
+        "Cost Analysis"
+      ]
+    },
+    {
+      "category": "Process Improvement",
+      "icon": "fas fa-arrows-rotate",
+      "color": "#FF8B94",
+      "skills": [
         "Root Cause Analysis",
         "KPI Reporting",
         "Lean Six Sigma",
         "Continuous Improvement",
         "Cross-Functional Collaboration",
-        "Data Validation",
-        "Pandas",
-        "NumPy"
+        "Data Validation"
       ]
     }
   ]

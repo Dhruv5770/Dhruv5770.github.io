@@ -71,5 +71,16 @@
       }
     ]
   },
-  "socialMedia": []
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dhruv-desai-a99362229/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:dhruv.d2715@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
 }

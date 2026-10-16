@@ -9,33 +9,28 @@
   ],
   "statistics": [
     {
-      "icon": "fas fa-project-diagram",
-      "value": "12+",
-      "label": "Projects Completed",
+      "icon": "fas fa-briefcase",
+      "value": "4+",
+      "label": "Years Experience",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-briefcase",
-      "value": "2+",
-      "label": "Years Experience",
+      "icon": "fas fa-boxes-stacked",
+      "value": "2,500+",
+      "label": "SKUs Planned",
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "value": "45+",
-      "label": "Technologies",
+      "icon": "fas fa-truck-fast",
+      "value": "40+",
+      "label": "Suppliers Analyzed",
       "color": "#FFE66D"
     },
     {
-      "icon": "fas fa-award",
-      "value": "0+",
-      "label": "Certifications",
+      "icon": "fas fa-sack-dollar",
+      "value": "$25M+",
+      "label": "Annual Product Flow",
       "color": "#A8DADC"
     }
-  ],
-  "downloadCV": {
-    "text": "Download Resume",
-    "href": "assets/files/resume.pdf",
-    "icon": "fas fa-download"
-  }
+  ]
 }

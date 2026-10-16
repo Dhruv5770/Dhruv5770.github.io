@@ -1,23 +1,27 @@
 {
   "_instructions": "Add your education and certifications here.",
-  "sectionTitle": "Education & Certifications",
+  "sectionTitle": "Education",
   "certificationsTitle": "Certifications",
   "education": [
     {
-      "degree": "Master of Science",
-      "school": "The University of Texas",
-      "institution": "The University of Texas",
-      "period": "Jan 2021 - Jan 2023",
+      "degree": "Master of Science in Supply Chain Management",
+      "school": "The University of Texas, TX, USA",
+      "institution": "The University of Texas, TX, USA",
+      "period": "Jan 2021 – Jan 2023",
       "details": "",
-      "description": ""
+      "description": "",
+      "icon": "fas fa-graduation-cap",
+      "color": "#B19CD9"
     },
     {
-      "degree": "Bachelor of Technology",
-      "school": "Charusat University",
-      "institution": "Charusat University",
-      "period": "Jan 2017 - Feb 2020",
+      "degree": "Bachelor of Technology in Mechanical Engineering",
+      "school": "Charusat University, Gujarat, India",
+      "institution": "Charusat University, Gujarat, India",
+      "period": "Jan 2017 – Feb 2020",
       "details": "",
-      "description": ""
+      "description": "",
+      "icon": "fas fa-gears",
+      "color": "#4ECDC4"
     }
   ],
   "certifications": []

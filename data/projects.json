@@ -3,23 +3,27 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
-      "title": "social-media-data-dashboard",
-      "description": "Portfolio project showcasing development capabilities",
-      "longDescription": "Portfolio project showcasing development capabilities",
-      "category": "Backend Development",
+      "title": "Retail Margin Cockpit",
+      "description": "Governed margin and inventory source of truth for retail and DTC teams: a dbt star schema over POS, Shopify and inventory exports, a DAX measure library and an RLS-scoped Power BI cockpit.",
+      "longDescription": "Governed margin and inventory source of truth for retail and DTC teams: a dbt star schema over POS, Shopify and inventory exports, a DAX measure library and an RLS-scoped Power BI cockpit.",
+      "category": "Retail Analytics",
       "technologies": [
+        "dbt",
+        "SQL",
+        "Power BI",
+        "DAX",
         "Python"
       ],
-      "icon": "fas fa-project-diagram",
-      "color": "#FF6B6B",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-store",
+      "color": "#FFE66D",
+      "image": "assets/images/projects/retail-margin-cockpit.svg",
       "featured": true,
-      "github": "https://github.com/Dhruv5770/social-media-data-dashboard",
-      "demo": "https://github.com/Dhruv5770/social-media-data-dashboard",
+      "github": "https://github.com/Dhruv5770/retail-margin-cockpit",
+      "demo": "https://github.com/Dhruv5770/retail-margin-cockpit",
       "links": {
-        "github": "https://github.com/Dhruv5770/social-media-data-dashboard",
-        "demo": "https://github.com/Dhruv5770/social-media-data-dashboard",
-        "live": "https://github.com/Dhruv5770/social-media-data-dashboard"
+        "github": "https://github.com/Dhruv5770/retail-margin-cockpit",
+        "demo": "https://github.com/Dhruv5770/retail-margin-cockpit",
+        "live": "https://github.com/Dhruv5770/retail-margin-cockpit"
       },
       "stats": {
         "status": "Completed",
@@ -27,18 +31,47 @@
       }
     },
     {
-      "title": "retail-data-analytics-project-python-sql-integration",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Backend Development",
+      "title": "Field Ops SQL Cost Audit",
+      "description": "dbt and SQL analytics layer that reconciles dispatch, route, timesheet and fuel data into true cost-to-serve per job and route, and shows where SLA breaches concentrate.",
+      "longDescription": "dbt and SQL analytics layer that reconciles dispatch, route, timesheet and fuel data into true cost-to-serve per job and route, and shows where SLA breaches concentrate.",
+      "category": "Operations Analytics",
       "technologies": [
-        "Jupyter Notebook",
-        "Python"
+        "dbt",
+        "SQL",
+        "Tableau",
+        "GitHub Actions"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-route",
+      "color": "#A8DADC",
+      "image": "assets/images/projects/field-ops-sql-cost-audit.svg",
+      "featured": true,
+      "github": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
+      "demo": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
+      "links": {
+        "github": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
+        "demo": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
+        "live": "https://github.com/Dhruv5770/field-ops-sql-cost-audit"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Retail Data Analytics: Python + SQL",
+      "description": "End-to-end analysis of retail order data: Kaggle API extraction, Pandas cleaning and preprocessing, a SQL Server load, and SQL queries that surface revenue and product insights.",
+      "longDescription": "End-to-end analysis of retail order data: Kaggle API extraction, Pandas cleaning and preprocessing, a SQL Server load, and SQL queries that surface revenue and product insights.",
+      "category": "Data Analytics",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "SQL Server",
+        "Jupyter"
+      ],
+      "icon": "fas fa-cart-shopping",
       "color": "#4ECDC4",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "image": "assets/images/projects/retail-data-analytics.svg",
+      "featured": true,
       "github": "https://github.com/Dhruv5770/retail-data-analytics-project-python-sql-integration",
       "demo": "https://github.com/Dhruv5770/retail-data-analytics-project-python-sql-integration",
       "links": {
@@ -52,17 +85,20 @@
       }
     },
     {
-      "title": "finances-database",
-      "description": "Practice repository for exploring advanced features",
-      "longDescription": "Practice repository for exploring advanced features",
-      "category": "Backend Development",
+      "title": "Personal Finance Database",
+      "description": "MySQL dimensional model that tracks every bank and credit card transaction, loaded with a Python ETL pipeline and visualized in a Power BI spending dashboard.",
+      "longDescription": "MySQL dimensional model that tracks every bank and credit card transaction, loaded with a Python ETL pipeline and visualized in a Power BI spending dashboard.",
+      "category": "Data Modeling",
       "technologies": [
-        "Jupyter Notebook",
-        "Python"
+        "MySQL",
+        "Python",
+        "SQLAlchemy",
+        "Power BI",
+        "DAX"
       ],
-      "icon": "fas fa-project-diagram",
-      "color": "#FFE66D",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-wallet",
+      "color": "#B19CD9",
+      "image": "assets/images/projects/finances-database.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/finances-database",
       "demo": "https://github.com/Dhruv5770/finances-database",
@@ -77,18 +113,19 @@
       }
     },
     {
-      "title": "ecommerce-recommender",
-      "description": "Interactive application built for continuous learning",
-      "longDescription": "Interactive application built for continuous learning",
-      "category": "Backend Development",
+      "title": "E-commerce Product Recommender",
+      "description": "Hybrid product recommendation system combining collaborative filtering, content-based filtering and a multi-modal deep learning model, served through a Flask web app.",
+      "longDescription": "Hybrid product recommendation system combining collaborative filtering, content-based filtering and a multi-modal deep learning model, served through a Flask web app.",
+      "category": "Machine Learning",
       "technologies": [
         "Python",
-        "HTML",
-        "CSS"
+        "PyTorch",
+        "Flask",
+        "Pandas"
       ],
-      "icon": "fas fa-brain",
-      "color": "#A8DADC",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-bag-shopping",
+      "color": "#f093fb",
+      "image": "assets/images/projects/ecommerce-recommender.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/ecommerce-recommender",
       "demo": "https://github.com/Dhruv5770/ecommerce-recommender",
@@ -103,16 +140,19 @@
       }
     },
     {
-      "title": "customer-churn-prediction",
-      "description": "Hands-on learning experience with modern frameworks",
-      "longDescription": "Hands-on learning experience with modern frameworks",
-      "category": "Backend Development",
+      "title": "Customer Churn Prediction",
+      "description": "Statistical testing to find the drivers of telecom customer churn and a classification model that predicts which customers are likely to leave.",
+      "longDescription": "Statistical testing to find the drivers of telecom customer churn and a classification model that predicts which customers are likely to leave.",
+      "category": "Machine Learning",
       "technologies": [
-        "Python"
+        "Python",
+        "Pandas",
+        "scikit-learn",
+        "Seaborn"
       ],
-      "icon": "fas fa-project-diagram",
-      "color": "#B19CD9",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-user-minus",
+      "color": "#FF8B94",
+      "image": "assets/images/projects/customer-churn-prediction.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/customer-churn-prediction",
       "demo": "https://github.com/Dhruv5770/customer-churn-prediction",
@@ -127,19 +167,19 @@
       }
     },
     {
-      "title": "online-payments-fraud-detection-with-machine-learning",
-      "description": "Personal development project using industry best practices",
-      "longDescription": "Personal development project using industry best practices",
-      "category": "Backend Development",
+      "title": "Online Payments Fraud Detection",
+      "description": "Machine learning classifier that separates fraudulent from legitimate online payment transactions using transaction type, amount and balance changes.",
+      "longDescription": "Machine learning classifier that separates fraudulent from legitimate online payment transactions using transaction type, amount and balance changes.",
+      "category": "Machine Learning",
       "technologies": [
-        "Jupyter Notebook",
-        "HTML",
         "Python",
-        "CSS"
+        "Pandas",
+        "scikit-learn",
+        "Jupyter"
       ],
-      "icon": "fas fa-brain",
-      "color": "#FF8B94",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-shield-halved",
+      "color": "#FF6B6B",
+      "image": "assets/images/projects/payments-fraud-detection.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/online-payments-fraud-detection-with-machine-learning",
       "demo": "https://github.com/Dhruv5770/online-payments-fraud-detection-with-machine-learning",
@@ -154,17 +194,19 @@
       }
     },
     {
-      "title": "anomaly-detection",
-      "description": "Educational project for mastering software architecture",
-      "longDescription": "Educational project for mastering software architecture",
-      "category": "Backend Development",
+      "title": "Login Anomaly Detection",
+      "description": "XGBoost model that scores user login events and flags anomalous behavior such as unauthorized access attempts or compromised accounts.",
+      "longDescription": "XGBoost model that scores user login events and flags anomalous behavior such as unauthorized access attempts or compromised accounts.",
+      "category": "Machine Learning",
       "technologies": [
-        "Jupyter Notebook",
-        "Python"
+        "Python",
+        "XGBoost",
+        "Pandas",
+        "Jupyter"
       ],
-      "icon": "fas fa-project-diagram",
-      "color": "#FF6B6B",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-user-shield",
+      "color": "#fa709a",
+      "image": "assets/images/projects/anomaly-detection.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/anomaly-detection",
       "demo": "https://github.com/Dhruv5770/anomaly-detection",
@@ -179,21 +221,19 @@
       }
     },
     {
-      "title": "brain-mapping-eeg-classification",
-      "description": "Learning project built with modern web technologies",
-      "longDescription": "Learning project built with modern web technologies",
-      "category": "Backend Development",
+      "title": "Brain Mapping EEG Classification",
+      "description": "Flask-based system that processes multi-channel EEG signals and classifies brain activity patterns, with an API and web interface.",
+      "longDescription": "Flask-based system that processes multi-channel EEG signals and classifies brain activity patterns, with an API and web interface.",
+      "category": "Machine Learning",
       "technologies": [
         "Python",
+        "Flask",
         "JavaScript",
-        "CSS",
-        "HTML",
-        "Shell",
-        "Dockerfile"
+        "Docker"
       ],
       "icon": "fas fa-brain",
-      "color": "#4ECDC4",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "color": "#4facfe",
+      "image": "assets/images/projects/eeg-classification.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/brain-mapping-eeg-classification",
       "demo": "https://github.com/Dhruv5770/brain-mapping-eeg-classification",
@@ -208,25 +248,25 @@
       }
     },
     {
-      "title": "retail-margin-cockpit",
-      "description": "Hands-on learning experience with modern frameworks",
-      "longDescription": "Hands-on learning experience with modern frameworks",
-      "category": "Backend Development",
+      "title": "Social Media Data Dashboard",
+      "description": "Streamlit dashboard that fetches public social media posts for a chosen platform, account and date range and shows engagement statistics and charts.",
+      "longDescription": "Streamlit dashboard that fetches public social media posts for a chosen platform, account and date range and shows engagement statistics and charts.",
+      "category": "Data Visualization",
       "technologies": [
         "Python",
-        "PLpgSQL",
-        "Dockerfile"
+        "Streamlit",
+        "REST APIs"
       ],
-      "icon": "fas fa-project-diagram",
-      "color": "#FFE66D",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-chart-pie",
+      "color": "#667eea",
+      "image": "assets/images/projects/social-media-data-dashboard.svg",
       "featured": false,
-      "github": "https://github.com/Dhruv5770/retail-margin-cockpit",
-      "demo": "https://github.com/Dhruv5770/retail-margin-cockpit",
+      "github": "https://github.com/Dhruv5770/social-media-data-dashboard",
+      "demo": "https://github.com/Dhruv5770/social-media-data-dashboard",
       "links": {
-        "github": "https://github.com/Dhruv5770/retail-margin-cockpit",
-        "demo": "https://github.com/Dhruv5770/retail-margin-cockpit",
-        "live": "https://github.com/Dhruv5770/retail-margin-cockpit"
+        "github": "https://github.com/Dhruv5770/social-media-data-dashboard",
+        "demo": "https://github.com/Dhruv5770/social-media-data-dashboard",
+        "live": "https://github.com/Dhruv5770/social-media-data-dashboard"
       },
       "stats": {
         "status": "Completed",
@@ -234,39 +274,17 @@
       }
     },
     {
-      "title": "field-ops-sql-cost-audit",
-      "description": "Educational project for mastering software architecture",
-      "longDescription": "Educational project for mastering software architecture",
-      "category": "Backend Development",
-      "technologies": [
-        "Python",
-        "Dockerfile"
-      ],
-      "icon": "fas fa-project-diagram",
-      "color": "#A8DADC",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "github": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
-      "demo": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
-      "links": {
-        "github": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
-        "demo": "https://github.com/Dhruv5770/field-ops-sql-cost-audit",
-        "live": "https://github.com/Dhruv5770/field-ops-sql-cost-audit"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
-      "title": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "longDescription": "Generated GitHub contribution history",
+      "title": "Contribution History",
+      "description": "Activity log repository that records GitHub contribution history over time.",
+      "longDescription": "Activity log repository that records GitHub contribution history over time.",
       "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "color": "#B19CD9",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "technologies": [
+        "Markdown",
+        "Git"
+      ],
+      "icon": "fas fa-code-branch",
+      "color": "#38d9a9",
+      "image": "assets/images/projects/contribution-history.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/contribution-history",
       "demo": "https://github.com/Dhruv5770/contribution-history",
@@ -281,14 +299,14 @@
       }
     },
     {
-      "title": "Dhruv-",
-      "description": "GitHub repository: Dhruv-",
-      "longDescription": "GitHub repository: Dhruv-",
+      "title": "Supply Chain Workspace",
+      "description": "Workspace repository for supply chain analytics experiments.",
+      "longDescription": "Workspace repository for supply chain analytics experiments.",
       "category": "Development",
       "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "color": "#FF8B94",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-network-wired",
+      "color": "#fee140",
+      "image": "assets/images/projects/supply-chain-workspace.svg",
       "featured": false,
       "github": "https://github.com/Dhruv5770/Dhruv-",
       "demo": "https://github.com/Dhruv5770/Dhruv-",

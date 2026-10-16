@@ -1,25 +1,25 @@
 {
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
-  "name": "Dhruv Desai",
-  "title": "Supply Chain Analyst",
-  "summary": "Supply Chain Analyst with 2+ years of experience specializing in SQL, VBA, Python.",
+  "name": "DHRUV DESAI",
+  "title": "Supply Chain Analyst · Demand & Supply Planning",
+  "summary": "Supply Chain Analyst with 4+ years across demand planning, supply planning, inventory management and procurement. I turn SAP, SQL and Excel data into Power BI and Tableau reporting that improves planning visibility, cuts excess inventory and strengthens supplier performance.",
   "avatarUrl": "/avatar.png",
-  "tagline": "Supply Chain Analyst",
+  "tagline": "Demand Planning • Inventory Optimization • S&OP • SAP • Power BI",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "2+ Years Experience",
+      "text": "4+ Years Experience",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "text": "12+ Projects Completed",
+      "icon": "fas fa-boxes-stacked",
+      "text": "2,500+ SKUs Planned",
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "text": "Technical Expertise",
+      "icon": "fas fa-chart-line",
+      "text": "SAP · SQL · Power BI",
       "color": "#FFE66D"
     }
   ],
@@ -40,6 +40,11 @@
     ]
   },
   "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dhruv-desai-a99362229/",
+      "icon": "fab fa-linkedin"
+    },
     {
       "platform": "Email",
       "url": "mailto:dhruv.d2715@gmail.com",

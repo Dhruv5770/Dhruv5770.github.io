@@ -1,9 +1,9 @@
 {
   "_instructions": "Footer section.",
   "copyright": {
-    "text": "© 2026 Dhruv Desai. All rights reserved.",
+    "text": "© 2026 DHRUV DESAI. All rights reserved.",
     "year": "2026",
-    "name": "Dhruv Desai"
+    "name": "DHRUV DESAI"
   },
   "tagline": "Crafted with passion and dedication",
   "links": [
@@ -17,6 +17,11 @@
     }
   ],
   "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dhruv-desai-a99362229/",
+      "icon": "fab fa-linkedin"
+    },
     {
       "platform": "Email",
       "url": "mailto:dhruv.d2715@gmail.com",
